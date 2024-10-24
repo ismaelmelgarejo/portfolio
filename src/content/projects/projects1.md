@@ -1,10 +1,9 @@
 ---
 title: "Innovación tecnológica: la transformación del futuro financiero del país"
-description: "En Paraguay, la tecnología está impulsando una transformación en el sector financiero, con la inclusión financiera y la ciberseguridad como pilares clave. Las fintech juegan un rol fundamental en la formalización de mipymes y el acceso a servicios financieros digitales."
+description: "Holitas"
 pubDate: "Oct 22 2022"
 heroImage: "/losDos.webp"
 tags: ["Paraguay"]
-link: "https://infonegocios.com.py/y-ademas/revolucion-digital-como-la-tecnologia-esta-transformando-el-futuro-financiero-del-pais?fbclid=PAZXh0bgNhZW0CMTEAAaaavZyucPiMEQrl8ui0pTBhHfLaw_9_rDF0D_zjJGW_OXtkN0yQhI7Y1Jk_aem_W8XxKypaUaWLJooPD0R5-g"
 ---
 
 Durante el conversatorio "Primavera Digital 2024," se abordó cómo la tecnología está transformando el sistema financiero en Paraguay, impulsando una mayor inclusión y accesibilidad. Alejandro Gómez Abente de ueno bank y César Astigarraga de itti destacaron la importancia de la ciberseguridad y la educación financiera como elementos esenciales para el avance del sistema de pagos, facilitado por el uso masivo de dispositivos móviles y la infraestructura digital del país. Gómez Abente subrayó cómo ueno bank ha permitido a miles de paraguayos acceder a servicios bancarios rápidamente, contribuyendo a una revolución en los pagos digitales.
