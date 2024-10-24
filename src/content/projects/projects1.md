@@ -1,5 +1,5 @@
 ---
-title: "Innovación tecnológica: la transformación del futuro financiero del país"
+title: "Proyect"
 description: "Holitas"
 pubDate: "Oct 22 2022"
 heroImage: "/losDos.webp"
