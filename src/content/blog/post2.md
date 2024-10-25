@@ -3,7 +3,7 @@ title: "Freddy Vega, CEO de Platzi, recibe el premio Emprendedor del Año Forbes
 description: "En Paraguay, la tecnología está impulsando una transformación en el sector financiero, con la inclusión financiera y la ciberseguridad como pilares clave. Las fintech juegan un rol fundamental en la formalización de mipymes y el acceso a servicios financieros digitales."
 pubDate: "Oct 22 2022"
 heroImage: "/freddy.jpeg"
-tags: ["Paraguay"]
+tags: ["Colombia"]
 link: "https://forbes.co/2024/10/24/negocios/freddy-vega-de-platzi-sera-premiado-como-emprendedor-del-ano-forbes-2024"
 ---
 
