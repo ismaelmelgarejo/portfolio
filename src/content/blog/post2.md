@@ -1,6 +1,6 @@
 ---
 title: "Freddy Vega, CEO de Platzi, recibe el premio Emprendedor del Año Forbes 2024 por su impacto en la educación digital en América Latina."
-description: "En Paraguay, la tecnología está impulsando una transformación en el sector financiero, con la inclusión financiera y la ciberseguridad como pilares clave. Las fintech juegan un rol fundamental en la formalización de mipymes y el acceso a servicios financieros digitales."
+description: "Forbes Colombia premia a Freddy Vega, CEO de Platzi, como Emprendedor del Año 2024. Platzi, con 5 millones de estudiantes, ha transformado la educación en América Latina, formando talento en tecnología y aumentando la empleabilidad en la región."
 pubDate: "Oct 22 2022"
 heroImage: "/freddy.jpeg"
 tags: ["Colombia"]
