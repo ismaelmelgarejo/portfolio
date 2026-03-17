@@ -5,7 +5,7 @@ import SystemMonitor from "../components/SystemMonitor.astro";
 import ContactTerminal from "../components/ContactTerminal.astro";
 ---
 
-<Layout title="Usuario | Cloud & Dev Portfolio">
+<Layout title="Ismael Melgarejo | Cloud, Ciberseguridad y Desarrollo">
     <section
         id="hero"
         class="min-h-[80vh] flex flex-col justify-center items-start"
@@ -26,7 +26,7 @@ import ContactTerminal from "../components/ContactTerminal.astro";
                 Desarrollo. Infraestructura. Servidores.
             </h2>
             <div
-                class="border border-gray-800 bg-black p-6 rounded shadow-lg font-mono mt-6 max-w-lg text-sm"
+                class="border border-gray-800 bg-black p-6 rounded shadow-lg font-mono mt-6 max-w-2xl w-full text-sm"
             >
                 <div
                     class="flex justify-between items-center mb-4 border-b border-gray-800 pb-2"
@@ -48,7 +48,8 @@ import ContactTerminal from "../components/ContactTerminal.astro";
                         <span class="text-yellow-400">&nbsp;&nbsp;"role"</span>:
                         "Desarrollador",<br />
                         <span class="text-yellow-400">&nbsp;&nbsp;"focus"</span
-                        >: ["Development", "DevOps", "Servidores"],<br />
+                        >: ["Development", "Ciberseguridad", "Servidores",
+                        "DevOps"],<br />
                         <span class="text-yellow-400">&nbsp;&nbsp;"status"</span
                         >: <span class="text-green-400"
                             >"Ready to implement Friday"</span
@@ -134,9 +135,11 @@ import ContactTerminal from "../components/ContactTerminal.astro";
         </div>
     </section>
 
-    <!-- Tech Stack Section (Development) -->
-    <section id="stack-dev" class="py-20 border-t border-gray-800/50">
-        <div class="mb-12">
+    <!-- Tech Stack Sections -->
+    <div id="stack">
+        <!-- Tech Stack Section (Development) -->
+        <section id="stack-dev" class="py-20 border-t border-gray-800/50">
+            <div class="mb-12">
             <h2 class="text-2xl font-bold text-white flex items-center">
                 <span class="text-green-500 mr-2">$</span>
                 top -u dev
@@ -148,7 +151,7 @@ import ContactTerminal from "../components/ContactTerminal.astro";
 
         <SystemMonitor title="DEV_PROCESSES" type="development" />
     </section>
-    
+
     <!-- Tech Stack Section (Infrastructure) -->
     <section id="stack-infra" class="py-20 border-t border-gray-800/50">
         <div class="mb-12">
@@ -163,6 +166,7 @@ import ContactTerminal from "../components/ContactTerminal.astro";
 
         <SystemMonitor title="INFRA_DAEMONS" type="infrastructure" />
     </section>
+    </div>
 
     <!-- Contact Section -->
     <section id="contact" class="py-20 border-t border-gray-800/50 mb-20">
